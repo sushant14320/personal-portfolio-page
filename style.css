@@ -6,7 +6,7 @@
   }
 
 body {
-      min-width: 450px;
+      min-width: 500px;
       background-color: #e0eeee;
   }
 
@@ -16,7 +16,7 @@ body {
     margin-top: 6px;
     margin-left: 55px;
     width: 90%;
-    height: 1650px;
+    height: 1000px;
   }
   h1{
       
@@ -30,6 +30,7 @@ body {
     border-style: inset;
     background-color:yellow;
     margin: 0;
+    box-shadow: 10px 10px;
     
   }
 
