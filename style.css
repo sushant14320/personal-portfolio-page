@@ -12,8 +12,8 @@ body {
 
   .profileBody {
     display: inline-block;
-    background-color: rgb(253, 253, 253);
-    margin-top: 8px;
+    background-color: white;
+    margin-top: 6px;
     margin-left: 55px;
     width: 90%;
     height: 1650px;
