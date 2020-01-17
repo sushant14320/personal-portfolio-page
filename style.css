@@ -16,7 +16,7 @@ body {
     margin-top: 6px;
     margin-left: 55px;
     width: 90%;
-    height: 999px;
+    height: 600px;
   }
   h1{
       
@@ -36,7 +36,9 @@ body {
 
   .img{
     position: absolute;
-    top: 10px;
+        /*float:right;
+        margin: 145px 20px 0px 10px;*/
+    top: 6px;
     right: 382px;
     border-radius : 50%;
     margin-bottom: 50px;
